@@ -1,6 +1,6 @@
 # RISC-V-Simulator
 
-Here we had developed an environment for the  RISC-V language. It is developed in the three phases and in each phase we have added new features. Following features are added in different phases.For each phase we have a GUI and a NON GUi version. 
+Here we had developed an environment for the  RISC-V language. It is developed in 3 phases and in each phase we have added new features. Following features are added in different phases. For each phase we have a GUI and a NON GUI version. 
 
 # phase 1 
 
