@@ -4,15 +4,15 @@ Here we had developed an environment for the  RISC-V language. It is developed i
 
 # phase 1 
 
-In this we had implemented the non piplined version of execution of the Risc-V Instruction. 
+In this we have implemented the non-piplined version of execution of the RISC-V Instruction. 
 
 # Phase 2 
 
-It has both piplined and non piplined version of execution of the instruction. 
+It has both piplined and non-piplined version (with and without data forwarding) of execution of the instruction. 
 
 # Phase 3 
 
-With all the features of the Phase e2 and 1 It has also the implementation of the caches also. 
+Incorporation of data and instruction cache, on phase 2 code. 
 
 
-A detailed Guide for using it and desigin of the code has been given in each phase folder.
+A detailed Guide for using it and design of the code has been given in each phase folder (as separate README files. The design of each phase has been given as DESIGN files)
